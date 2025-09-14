@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Purushoth573/Leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/Purushoth573/Leetcode_solution/tree/master/0874-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purushoth573/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/Purushoth573/Leetcode_solution/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Purushoth573/Leetcode_solution/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Purushoth573/Leetcode_solution/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Purushoth573/Leetcode_solution/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Purushoth573/Leetcode_solution/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
