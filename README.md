@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purushoth573/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Purushoth573/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0941-sort-array-by-parity](https://github.com/Purushoth573/Leetcode_solution/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purushoth573/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0941-sort-array-by-parity](https://github.com/Purushoth573/Leetcode_solution/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
