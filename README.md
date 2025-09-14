@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Purushoth573/Leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purushoth573/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Purushoth573/Leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purushoth573/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0941-sort-array-by-parity](https://github.com/Purushoth573/Leetcode_solution/tree/master/0941-sort-array-by-parity) |
