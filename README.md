@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Purushoth573/Leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0209-minimum-size-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Purushoth573/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Purushoth573/Leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0015-3sum) |
 | [0567-permutation-in-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
