@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Purushoth573/Leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Purushoth573/Leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Purushoth573/Leetcode_solution/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Purushoth573/Leetcode_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Purushoth573/Leetcode_solution/tree/master/0011-container-with-most-water) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Purushoth573/Leetcode_solution/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Purushoth573/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Purushoth573/Leetcode_solution/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Purushoth573/Leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Purushoth573/Leetcode_solution/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Queue
 |  |
 | ------- |
