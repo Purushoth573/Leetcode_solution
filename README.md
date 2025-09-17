@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0283-move-zeroes) |
+| [0406-queue-reconstruction-by-height](https://github.com/Purushoth573/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
 | [0523-continuous-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Purushoth573/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Purushoth573/Leetcode_solution/tree/master/0075-sort-colors) |
+| [0406-queue-reconstruction-by-height](https://github.com/Purushoth573/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
 | [0941-sort-array-by-parity](https://github.com/Purushoth573/Leetcode_solution/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Purushoth573/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Purushoth573/Leetcode_solution/tree/master/0954-maximum-sum-circular-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Purushoth573/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Purushoth573/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
