@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purushoth573/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Purushoth573/Leetcode_solution/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Purushoth573/Leetcode_solution/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Purushoth573/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purushoth573/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Purushoth573/Leetcode_solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Purushoth573/Leetcode_solution/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Purushoth573/Leetcode_solution/tree/master/0135-candy) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Purushoth573/Leetcode_solution/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Stack
 |  |
