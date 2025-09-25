@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Purushoth573/Leetcode_solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Purushoth573/Leetcode_solution/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Purushoth573/Leetcode_solution/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Purushoth573/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Purushoth573/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Purushoth573/Leetcode_solution/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purushoth573/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/Purushoth573/Leetcode_solution/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/Purushoth573/Leetcode_solution/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Purushoth573/Leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Purushoth573/Leetcode_solution/tree/master/0406-queue-reconstruction-by-height) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Purushoth573/Leetcode_solution/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Purushoth573/Leetcode_solution/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
