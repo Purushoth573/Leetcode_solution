@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Purushoth573/Leetcode_solution/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Purushoth573/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Purushoth573/Leetcode_solution/tree/master/0053-maximum-subarray) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Purushoth573/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Purushoth573/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purushoth573/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Purushoth573/Leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/Purushoth573/Leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
