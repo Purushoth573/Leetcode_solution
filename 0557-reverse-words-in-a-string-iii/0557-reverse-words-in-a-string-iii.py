@@ -1,6 +1,6 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        s = list(s)
+        """s = list(s)
         l = 0
         for r in range(len(s)):
             if s[r] == " " or r == len(s) - 1:
@@ -13,4 +13,10 @@ class Solution:
                     temp_l += 1
                     temp_r -= 1
                 l = r + 1
-        return "".join(s)
+        return "".join(s)"""
+        lst = s.split(" ")
+
+        for i in range(len(lst)):
+            lst[i] = lst[i][::-1]
+
+        return " ".join(lst)
