@@ -36,3 +36,4 @@ nums1 = [1, 3]
 nums2 = [2]
 
 print(obj.findMedianSortedArrays(nums1, nums2))
+print("hai")
