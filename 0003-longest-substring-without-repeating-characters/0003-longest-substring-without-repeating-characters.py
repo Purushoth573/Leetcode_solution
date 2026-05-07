@@ -17,3 +17,4 @@ class Solution:
 
 obj = Solution()
 print(obj.lengthOfLongestSubstring("abcabcbb"))
+print("hai")
