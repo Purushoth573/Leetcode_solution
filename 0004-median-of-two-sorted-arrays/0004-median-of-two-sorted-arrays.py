@@ -30,3 +30,9 @@ class Solution:
                 r = i - 1
             else:
                 l = i + 1
+obj = Solution()
+
+nums1 = [1, 3]
+nums2 = [2]
+
+print(obj.findMedianSortedArrays(nums1, nums2))
