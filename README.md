@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Purushoth573/Leetcode_solution/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0202-happy-number) |
