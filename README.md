@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0523-continuous-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Purushoth573/Leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Purushoth573/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Purushoth573/Leetcode_solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Purushoth573/Leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Purushoth573/Leetcode_solution/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Purushoth573/Leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
