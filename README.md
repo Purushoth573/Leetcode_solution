@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Purushoth573/Leetcode_solution/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Purushoth573/Leetcode_solution/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/Purushoth573/Leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Purushoth573/Leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
