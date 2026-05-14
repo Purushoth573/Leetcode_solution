@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
+| [0292-nim-game](https://github.com/Purushoth573/Leetcode_solution/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Purushoth573/Leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
@@ -232,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Purushoth573/Leetcode_solution/tree/master/0079-word-search) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Purushoth573/Leetcode_solution/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Purushoth573/Leetcode_solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
