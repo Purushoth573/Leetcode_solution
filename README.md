@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/Purushoth573/Leetcode_solution/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Purushoth573/Leetcode_solution/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Purushoth573/Leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Purushoth573/Leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Purushoth573/Leetcode_solution/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Purushoth573/Leetcode_solution/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Purushoth573/Leetcode_solution/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Purushoth573/Leetcode_solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
