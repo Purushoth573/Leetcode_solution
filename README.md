@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Purushoth573/Leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Purushoth573/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Purushoth573/Leetcode_solution/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Purushoth573/Leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Purushoth573/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Purushoth573/Leetcode_solution/tree/master/0079-word-search) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Purushoth573/Leetcode_solution/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Purushoth573/Leetcode_solution/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Purushoth573/Leetcode_solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Purushoth573/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0202-happy-number) |
