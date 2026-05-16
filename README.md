@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purushoth573/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Purushoth573/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Purushoth573/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Purushoth573/Leetcode_solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0263-ugly-number) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Purushoth573/Leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Purushoth573/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Purushoth573/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Purushoth573/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Purushoth573/Leetcode_solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Purushoth573/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Purushoth573/Leetcode_solution/tree/master/0344-reverse-string) |
